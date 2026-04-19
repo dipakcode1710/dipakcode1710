@@ -10,7 +10,7 @@ Building scalable APIs, clean architectures, and developer-friendly tools.
 `Java` `Spring Boot` `REST APIs` `MySQL` `MongoDB` `JWT` `Git`
 
 ### 📌 Now
-→ FlowForge production-ready · Workshop Management System · Microservices with Spring Cloud · System design
+→ FlowForge production-ready · Workshop Management System · Learning Microservices & Spring Cloud · System design
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dipakrsuryawanshi-dev)
 
