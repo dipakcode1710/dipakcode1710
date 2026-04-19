@@ -1,57 +1,17 @@
-# Hi, I'm Dipak 👋
+# Dipak Suryawanshi
+Backend Developer · Java & Spring Boot
+Building scalable APIs, clean architectures, and developer-friendly tools.
 
-Backend Developer focused on building scalable systems with Java and modern frameworks.
-I enjoy designing clean architectures, building APIs, and creating developer-friendly tools.
+### 🔨 Current Projects
+- **FlowForge** — Lightweight Java framework with annotation routing, DI, JWT auth & middleware
+- **Workshop Management System** — Spring Boot backend with role-based access & MySQL integration
 
-## 🚀 What I'm Working On
+### 🧠 Stack
+`Java` `Spring Boot` `REST APIs` `MySQL` `MongoDB` `JWT` `Git`
 
-### ⚡ FlowForge Framework
-A lightweight Java backend framework designed for fast API development with minimal setup.
+### 📌 Now
+→ FlowForge production-ready · Workshop Management System · Microservices with Spring Cloud · System design
 
-* Annotation-driven routing (GET/POST)
-* Built-in Dependency Injection
-* Middleware system
-* JWT Authentication & Role-based Authorization
-* Dynamic URL & query handling
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dipakrsuryawanshi-dev)
 
-> Focus: Making backend development simpler and faster without heavy configuration.
-
-### 🚗 Workshop Management System
-A real-world backend system to manage workshop operations.
-
-* Order lifecycle management
-* Role-based access (Admin / Employee)
-* REST APIs with clean architecture
-* Database integration (MySQL)
-
-> Focus: Applying production-level backend design using Spring Boot.
-
-## 🧠 Tech Stack
-* Java
-* Spring Boot
-* REST APIs
-* MySQL / MongoDB
-* JWT Authentication
-* Git
-
-## 🧩 What I Care About
-* Clean code & maintainable architecture
-* Backend performance & scalability
-* Developer experience (DX)
-* Building real-world systems, not just demos
-
-## 📌 Current Focus
-* Improving FlowForge into a production-ready framework
-* Deep learning of microservices with Spring Cloud
-* Strengthening system design & backend architecture
-
-## 📈 Goals
-* Become a strong Spring Boot / backend engineer
-* Contribute to open source projects
-* Build tools that other developers can use
-
-## 📫 Connect
-* LinkedIn: www.linkedin.com/in/dipakrsuryawanshi-dev
-
-## ⚡ Fun Fact
-I like building frameworks almost as much as using them.
+> I like building frameworks almost as much as using them.
