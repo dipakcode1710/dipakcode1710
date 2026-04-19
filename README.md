@@ -7,7 +7,7 @@ Building scalable APIs, clean architectures, and developer-friendly tools.
 - **Workshop Management System** — Spring Boot backend with role-based access & MySQL integration
 
 ### 🧠 Stack
-`Java` `Spring Boot` `REST APIs` `MySQL` `MongoDB` `JWT` `Git`
+`Java` `Spring Boot` `Spring Cloud` `REST APIs` `MySQL` `MongoDB` `JWT` `Git` `OpenAPI` `SQL` `CI/CD` `Oracle Cloud (OCI)`
 
 ### 📌 Now
 → FlowForge production-ready · Workshop Management System · Learning Microservices & Spring Cloud · System design
