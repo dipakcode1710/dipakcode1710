@@ -19,6 +19,6 @@ Building scalable APIs, clean architectures, and developer-friendly tools.
 I enjoy working close to the metal — building the tools other developers use rather than just consuming them. FlowForge started as curiosity about how frameworks like Spring Boot actually work under the hood. It now has a DI container, annotation-based routing, JWT middleware, a validation system, and a live API docs UI — all in plain Java.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/dipakrsuryawanshi-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-dipakcode1710-black?style=flat&logo=github)](https://github.com/suryawanshi-dipak)
+[![GitHub](https://img.shields.io/badge/GitHub-suryawanshi--dipak-black?style=flat&logo=github)](https://github.com/suryawanshi-dipak)
 
 > "I like building frameworks almost as much as using them."
